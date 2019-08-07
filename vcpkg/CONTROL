@@ -1,0 +1,4 @@
+Source: ros-dashing-std-srvs
+Version: 0.7.0
+Description: A package containing some standard service definitions.
+Build-Depends:
