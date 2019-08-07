@@ -1,0 +1,4 @@
+Source: ros-dashing-diagnostic-msgs
+Version: 0.7.0
+Description: A package containing some diagnostics related message and service definitions.
+Build-Depends:
