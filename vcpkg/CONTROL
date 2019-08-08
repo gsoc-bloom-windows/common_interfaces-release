@@ -1,4 +1,0 @@
-Source: ros-dashing-trajectory-msgs
-Version: 0.7.0
-Description: A package containing some robot trajectory message definitions.
-Build-Depends:
