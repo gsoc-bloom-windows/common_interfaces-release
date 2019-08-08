@@ -1,4 +1,0 @@
-Source: ros-dashing-geometry-msgs
-Version: 0.7.0
-Description: A package containing some geometry related message definitions.
-Build-Depends:
