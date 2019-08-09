@@ -1,4 +1,0 @@
-Source: ros-dashing-std-msgs
-Version: 0.7.0
-Description: A package containing some standard message definitions.
-Build-Depends:
