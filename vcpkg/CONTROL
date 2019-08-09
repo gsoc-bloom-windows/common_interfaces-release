@@ -1,0 +1,4 @@
+Source: ros-dashing-stereo-msgs
+Version: 0.7.0
+Description: A package containing some stereo camera related message definitions.
+Build-Depends:
