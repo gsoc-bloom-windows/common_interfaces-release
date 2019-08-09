@@ -1,19 +1,15 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>ros-dashing-sensor-msgs</id>
-    <version>0.7.0</version>
-    <title>ros-dashing-sensor-msgs</title>
-    <authors>William Woodall</authors>
+    <id>@(Package)</id>
+    <version>@(Version)</version>
+    <title>@(Package)</title>
+    <authors>@(Authors)</authors>
     <owners>OSRF</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>A package containing some sensor data related message and service definitions.</description>
+    <description>@(Description)</description>
     <dependencies>
-		<dependency id="ros-dashing-builtin-interfaces"/>
-		<dependency id="ros-dashing-geometry-msgs"/>
-		<dependency id="ros-dashing-rosidl-default-runtime"/>
-		<dependency id="ros-dashing-std-msgs"/>
-
+@[for d in Depends]@(d)@[end for]
     </dependencies>
   </metadata>
   <files>
