@@ -1,4 +1,0 @@
-Source: ros-dashing-actionlib-msgs
-Version: 0.7.0
-Description: A package containing some message definitions used in the implementation or actions.
-Build-Depends:
