@@ -1,0 +1,4 @@
+Source: ros-dashing-nav-msgs
+Version: 0.7.0
+Description: A package containing some navigation related message and service definitions.
+Build-Depends:
