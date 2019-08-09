@@ -1,0 +1,4 @@
+Source: ros-dashing-shape-msgs
+Version: 0.7.0
+Description: A package containing some message definitions which describe geometric shapes.
+Build-Depends:
